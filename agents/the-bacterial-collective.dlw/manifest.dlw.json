@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Bacterial Collective",
+  "universe": "QRM · The Bacterial Collective (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Bacterial Collective:QRM:f073de⟧",
+  "carbon": "the-bacterial-collective.carbon.tiff (TIFF)",
+  "silicon": "the-bacterial-collective.silicon.png (PNG)",
+  "seal_sha256": "316050b400eb9813695040fe12ecb19084d7d9a1d17e9a4059c006563ea10e6f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

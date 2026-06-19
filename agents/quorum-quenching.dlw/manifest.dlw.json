@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Quorum Quenching",
+  "universe": "QRM · Quorum Quenching (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦Quorum Quenching:QRM:493961⟧",
+  "carbon": "quorum-quenching.carbon.tiff (TIFF)",
+  "silicon": "quorum-quenching.silicon.png (PNG)",
+  "seal_sha256": "9f6d596ef578883481224b98bf3b70eb80269660203204506afd657d3c488e91",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

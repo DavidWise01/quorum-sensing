@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Autoinducer-2",
+  "universe": "QRM · Autoinducer-2 (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦Autoinducer-2:QRM:308e63⟧",
+  "carbon": "autoinducer-2.carbon.tiff (TIFF)",
+  "silicon": "autoinducer-2.silicon.png (PNG)",
+  "seal_sha256": "f85ba1a8dac4a36327770ad5d4b18dac3aa13bbe3766511f9c0e9845560f1613",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

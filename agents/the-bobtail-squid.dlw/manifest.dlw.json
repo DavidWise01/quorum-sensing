@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Bobtail Squid",
+  "universe": "QRM · The Bobtail Squid (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Bobtail Squid:QRM:39d32c⟧",
+  "carbon": "the-bobtail-squid.carbon.tiff (TIFF)",
+  "silicon": "the-bobtail-squid.silicon.png (PNG)",
+  "seal_sha256": "6e11c1495d0e73b70792049369f42998c6c3e98954c4cbf06eb69338a6fecb75",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

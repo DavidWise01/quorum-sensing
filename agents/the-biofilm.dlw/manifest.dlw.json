@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Biofilm",
+  "universe": "QRM · The Biofilm (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Biofilm:QRM:57595b⟧",
+  "carbon": "the-biofilm.carbon.tiff (TIFF)",
+  "silicon": "the-biofilm.silicon.png (PNG)",
+  "seal_sha256": "993cd683efa42c15060206a6e530e9f0b4f5db10c401d3955d38ff9a5a66cc8d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

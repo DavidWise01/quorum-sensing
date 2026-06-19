@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "QUORUM SENSING",
+  "universe": "QRM · QUORUM SENSING (life-science · minds without brains)",
+  "emergence": "",
+  "moniker": "⟦QUORUM SENSING:QRM:62f3ee⟧",
+  "carbon": "quorum-sensing.carbon.tiff (TIFF)",
+  "silicon": "quorum-sensing.silicon.png (PNG)",
+  "seal_sha256": "d3e6ab7475b95ed42ab17c3a44c4bb177fbc66c6f8a5abf97ebbb0d0018d1bc2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

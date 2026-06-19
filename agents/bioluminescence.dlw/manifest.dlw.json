@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Bioluminescence",
+  "universe": "QRM · Bioluminescence (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Bioluminescence:QRM:ea9b43⟧",
+  "carbon": "bioluminescence.carbon.tiff (TIFF)",
+  "silicon": "bioluminescence.silicon.png (PNG)",
+  "seal_sha256": "ba4b741aea4400918be5aa52d8db8968f1c63b9ff9a4810d0f4f9bf0d22735c4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Vibrio fischeri",
+  "universe": "QRM · Vibrio fischeri (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦Vibrio fischeri:QRM:6735ce⟧",
+  "carbon": "vibrio-fischeri.carbon.tiff (TIFF)",
+  "silicon": "vibrio-fischeri.silicon.png (PNG)",
+  "seal_sha256": "51a50d7d78ae8d43721811b93e4287948dc9c23f5e4974711a1b59e3f2a1e3f2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
